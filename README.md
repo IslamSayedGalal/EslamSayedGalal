@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://codepen.io/eslam_galal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eslam_galal" height="30" width="40" /></a>
 <a href="https://twitter.com/eslamgalal0312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eslamgalal0312" height="30" width="40" /></a>
+<br>
 <a href="https://linkedin.com/in/islam sayed galal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islam sayed galal" height="30" width="40" /></a>
 <a href="https://fb.com/eslam sayed galal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eslam sayed galal" height="30" width="40" /></a>
 <a href="https://instagram.com/eslamgalal2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eslamgalal2000" height="30" width="40" /></a>
